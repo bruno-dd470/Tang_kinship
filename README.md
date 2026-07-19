@@ -2,7 +2,7 @@
 
 **Algebraic Topology, Alliance Filtration, and Social Homeostasis**
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.xxxxxxx.svg)](https://doi.org/10.5281/zenodo.xxxxxxx)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21442293.svg)](https://doi.org/10.5281/zenodo.21442293)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![MD](https://img.shields.io/badge/MD-blue?logo=markdown)](./Tang_kinship_en.md)
 [![PDF](https://img.shields.io/badge/PDF-red?logo=adobeacrobatreader)](./Tang_kinship_en.pdf)
