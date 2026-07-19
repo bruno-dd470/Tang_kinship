@@ -1,0 +1,43 @@
+# === DOSSIERS TEMPORAIRES ET BROUILLONS ===
+trash/
+*.tmp
+*.temp
+
+# === FICHIERS DE COMPILATION LaTeX ===
+*.aux
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.bbl
+*.blg
+*.brf
+*.idx
+*.ilg
+*.ind
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.xdv
+*.nav
+*.snm
+*.vrb
+
+# === FICHIERS DE BACKUP DES ÉDITEURS ===
+*~
+*.swp
+*.swo
+*.bak
+*.orig
+
+# === FICHIERS SYSTÈME (macOS / Windows) ===
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# === DOSSIERS D'IDE ===
+.vscode/
+.idea/
+*.iml
+
