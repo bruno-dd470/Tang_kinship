@@ -3,9 +3,9 @@ title: "Tang Kinship under the Test of the 64→20 Invariant: Algebraic Topology
 author: "Bruno DE DOMINICIS"
 date: "June 2026"
 ORCID: "0009-0009-0380-3056"
-doi: "10.5281/zenodo.xxxxxxx"
+doi: "10.5281/zenodo.21442293"
 abstract_en: |
-  This article demonstrates that the marriage rules and alliance structure under the Tang dynasty (notably the "Five Names and Seven Clans" system) are not cultural arbitraries, but obey the universal topological constraint of the 64→20 invariant. By modeling the space of relational possibilities via Clifford algebra Cl(6,0) and its 64 configurations (isomorphic to the 64 hexagrams of the *Yijing*), we show that nilpotence and the geometry of the Merkabah filter these 64 states to retain only 20 stable equivalence classes (the alliance attractors). This topological filtration, which prohibits "frustrated" configurations (incest taboos), ensures the negentropic homeostasis of the Chinese social system, in radical contrast to the Western schism analyzed by Viguier. **DOI:** [10.5281/zenodo.xxxxxx](https://doi.org/10.5281/zenodo.xxxxxx)
+  This article demonstrates that the marriage rules and alliance structure under the Tang dynasty (notably the "Five Names and Seven Clans" system) are not cultural arbitraries, but obey the universal topological constraint of the 64→20 invariant. By modeling the space of relational possibilities via Clifford algebra Cl(6,0) and its 64 configurations (isomorphic to the 64 hexagrams of the *Yijing*), we show that nilpotence and the geometry of the Merkabah filter these 64 states to retain only 20 stable equivalence classes (the alliance attractors). This topological filtration, which prohibits "frustrated" configurations (incest taboos), ensures the negentropic homeostasis of the Chinese social system, in radical contrast to the Western schism analyzed by Viguier. **DOI:** [10.5281/zenodo.21442293](https://doi.org/10.5281/zenodo.21442293)
 runninghead: "KINSHIP SYSTEMS AND ALGEBRAIC TOPOLOGY"
 toc: true
 toc-depth: 3
@@ -23,12 +23,26 @@ header-includes:
   - \titlespacing*{\subsubsection}{0pt}{12pt}{6pt}
   - \AtBeginDocument{\let\oldtableofcontents\tableofcontents\renewcommand{\tableofcontents}{\newpage\oldtableofcontents}}
 keywords:
-  - complexity regulation
-  - double tetrahedron
-  - genetic code
+  - 64→20 invariant
   - Clifford algebra
-  - Rowlands nilpotent
-  - Wuxing
+  - Tang dynasty
+  - kinship systems
+  - alliance theory
+  - Merkabah geometry
+  - Λ72 lattice
+  - topological filtration
+  - social homeostasis
+  - incest taboo
+  - Wufu
+  - Five Names and Seven Clans
+  - structural anthropology
+  - genetic code
+  - metamythic homeostasis
+  - Controversy of Ravenna
+  - frustration descent
+  - spectral observables
+  - social negentropy
+  - Lévi-Strauss
 ---
 
 # Introduction: From Elementary Structure to Relational Topology
