@@ -4,8 +4,8 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.xxxxxxx.svg)](https://doi.org/10.5281/zenodo.xxxxxxx)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![View MD](https://img.shields.io/badge/Lire-MD-blue?logo=markdown)](./Tang_kinship_en.md)
-[![Download PDF](https://img.shields.io/badge/Télécharger-PDF-red?logo=adobeacrobatreader)](./Tang_kinship_en.pdf)
+[![MD](https://img.shields.io/badge/MD-blue?logo=markdown)](./Tang_kinship_en.md)
+[![PDF](https://img.shields.io/badge/PDF-red?logo=adobeacrobatreader)](./Tang_kinship_en.pdf)
 
 ## Overview
 
